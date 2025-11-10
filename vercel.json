@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/logindet",
+      "destination": "http://20.244.13.79:8080/"
+    }
+  ]
+}
